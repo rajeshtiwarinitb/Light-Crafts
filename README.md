@@ -1,2 +1,2 @@
-# Light-Crafts
+# Lightcraft Studio
 Web Challenge
